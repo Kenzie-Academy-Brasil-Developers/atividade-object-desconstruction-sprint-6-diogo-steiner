@@ -81,23 +81,3 @@ const totalPadaria = (array = itemArray) => {
 }
 console.log(totalPadaria());
 
-
-
-
-
-
-
-
-
-
-
-
-// const testForEach = (array = itemArray) => {
-//     array.forEach((produto) => {
-//         let {id, product, price, quantity, section} = produto
-//         console.log(id, product, price, quantity, section);
-//     })
-// }
-// testForEach()
-
-
